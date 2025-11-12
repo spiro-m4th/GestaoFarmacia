@@ -1,0 +1,5 @@
+# Ignorar bin e obj
+
+/bin/
+/obj/
+
