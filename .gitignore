@@ -1,5 +1,5 @@
 # Ignorar bin e obj
 
-/bin/
-/obj/
+GestaoFarmacia/bin/
+GestaoFarmacia/obj/
 
